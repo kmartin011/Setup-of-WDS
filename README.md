@@ -29,3 +29,10 @@ WDS is particularly useful in large organizations where deploying the OS manuall
 <br>
 You can read more about WDS here: https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831764(v=ws.11)
 </p>
+<br>
+<br>
+<br>
+<p>
+  Thank you for reading my repository
+  - kmartin011
+</p>
