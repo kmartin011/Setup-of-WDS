@@ -4,6 +4,7 @@
 <ul>
   <li>Introduction</li>
   <li>Installation of WDS role on Server</li>
+  <li>Creation of Drive to Store all Image Files</li>
   <li>Configuration of WDS</li>
   <li>Deployment of Image from WDS</li>
 </ul>
